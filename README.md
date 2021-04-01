@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning how to improve my skills in Web Development
 
-![undraw_solution_mindset_34bi](https://user-images.githubusercontent.com/33580843/113298897-b016be00-92d2-11eb-82c3-7210b802e518.png)
+![undraw_solution_mindset_34bi](https://user-images.githubusercontent.com/33580843/113298897-b016be00-92d2-11eb-82c3-7210b802e518.png =250x250)
 
 <!--
 **luizfelipesousa/luizfelipesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
