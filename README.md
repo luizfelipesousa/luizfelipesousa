@@ -1,18 +1,12 @@
 ### Hi there 👋
 
   <div style="display: flex; align-items: stretch;">
-  <div>
     <div>
-      <p>- 🌱 I’m currently learning how to improve my skills in Web Development</p>
-    </div>
-    <img src="https://user-images.githubusercontent.com/33580843/113300792-ac843680-92d4-11eb-9c7c-5e7c010f1241.png" width="350">
-  </div>
-  <div>
-    <div>
+      <div>
         <p>- 🌱 I’m currently learning how to improve my skills in Web Development</p>
+      </div>
+      <img src="https://user-images.githubusercontent.com/33580843/113300792-ac843680-92d4-11eb-9c7c-5e7c010f1241.png" width="350"/>
     </div>
-    <img src="https://user-images.githubusercontent.com/33580843/113300792-ac843680-92d4-11eb-9c7c-5e7c010f1241.png" width="350">
-  </div>
   </div>
 
 
