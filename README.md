@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  <div style="display: flex;">
+  <div style="display: flex; align-items: stretch;">
   <div>
     <div>
       <p>- 🌱 I’m currently learning how to improve my skills in Web Development</p>
