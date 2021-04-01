@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning how to improve my skills in Web Development
+<div align="center">
+  <div style="display: flex;">
+    <div>
+      <p>- 🌱 I’m currently learning how to improve my skills in Web Development</p>
+    </div>
+    <img src="https://user-images.githubusercontent.com/33580843/113300792-ac843680-92d4-11eb-9c7c-5e7c010f1241.png" width="350">
+  </div>
+</div>
 
-<img src="https://user-images.githubusercontent.com/33580843/113298897-b016be00-92d2-11eb-82c3-7210b802e518.png" width="350">
+
+
 <!--
 **luizfelipesousa/luizfelipesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
