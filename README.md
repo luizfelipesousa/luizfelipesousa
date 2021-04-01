@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <div style="display: flex;">
+  <div style="display: inline;">
     <div>
       <p>- 🌱 I’m currently learning how to improve my skills in Web Development</p>
     </div>
